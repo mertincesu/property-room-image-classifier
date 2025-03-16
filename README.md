@@ -1,6 +1,7 @@
 # Room Classification Model
 
 Due to model size, it has been uploaded to Huggingface. Direct link to access the model files, and example_usage.py is below:
+
 Huggingface URL: https://huggingface.co/mertincesu/property-room-classifier
 
 ## Model Details
